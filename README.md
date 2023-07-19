@@ -1,2 +1,2 @@
 # Full-Stack-Open
-This repository will be used to submit the projects for the University of Helsinki - MOOC - Full Stack Open
+Projects for the Full Stack Open - MOOC offered by the University of Helsinki
